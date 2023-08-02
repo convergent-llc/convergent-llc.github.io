@@ -1,20 +1,20 @@
 ---
 layout: home
 permalink: "/"
-title: "Jekyll Advance"
-description: "Advance is a multi-purpose premium Jekyll theme. Modern design, clean code and highly configurable."
+title: "Convergent Home"
+description: "A Data First Company"
 header_transparent: true
-meta_title: Jekyll Advance - Premium Jekyll Theme
+meta_title: Convergent - Home
 
 hero:
   enabled: true
   heading: "Convergent"
   sub_heading: "Where it all comes together."
-  text_color: "#FFFFFF"
-  background_color: "#1d2830"
-  background_gradient: true
+  text_color: "#cbe2e2"
+  background_color: "#46627f"
+  background_gradient: false
   background_image: "/assets/images/gen/home/home-1-large.webp"
-  background_image_blend_mode: overlay # "overlay", "multiply", "screen"
+  background_image_blend_mode: multiply # "overlay", "multiply", "screen"
   fullscreen_mobile: true
   fullscreen_desktop: false
   height: "660px"
@@ -40,7 +40,7 @@ services:
   enabled: true
   heading: "Our Services"
   sub_heading: ""
-  limit: 6
+  limit: 3
   sort: "weight" # 'date'
   view_more_button_text: "View All Services"
   view_more_button_link: "/services"
@@ -58,7 +58,7 @@ intro:
         fa_icon: "fas fa-check"
       - text: "An advanced hero image section with dozens of design options."
         fa_icon: "fas fa-check"
-      - text: "Fully responsive and SEO optimised."
+      - text: "Fully responsive and SEO optimized."
         fa_icon: "fas fa-check"
       - text: "Multiple content types including services, projects, blog and more."
         fa_icon: "fas fa-check"
@@ -93,7 +93,7 @@ outro:
   align: center
   image: false
   heading: Get Started Today
-  sub_heading: "Save time and money using this premium Jekyll theme."
+  sub_heading: "Save time and money managing your data."
   features:
     enabled: false
     list:

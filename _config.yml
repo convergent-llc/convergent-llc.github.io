@@ -86,7 +86,7 @@ colors:
   primary_text: "#fdfcf9"
   secondary: "#222f3d"
   background: "#ffffff"
-  background_2: "#cbe2e2"
+  background_2: "#aacfd0"
   background_3: "#aacfd0"
   text: "#0d042b"
   text_2: "#34495e"
@@ -154,10 +154,10 @@ menu:
 
 footer:
   enable_footer: true # show/hide the entire footer
-  footer_title: "Jekyll Advance"
-  footer_description: "Advance is a multi-purpose premium Jekyll theme. Modern design, clean code and highly configurable."
+  footer_title: "Convergent"
+  footer_description: "A Data First Company."
   enable_social_media_icons: true
-  enable_contact_details: true
+  enable_contact_details: false
   enable_menu_footer_primary: true
   enable_menu_footer_secondary: true
   enable_menu_footer_tertiary: true
@@ -167,7 +167,7 @@ footer:
 
 bottom:
   enable_bottom: true # show/hide the entire bottom (below the footer)
-  enable_bottom_menu: true # if enabled, the bottom menu can be edited in `_data/menu.yml`
+  enable_bottom_menu: false # if enabled, the bottom menu can be edited in `_data/menu.yml`
   copyright_text: "© 2023 Convergent LLC"
 
 sidebar:

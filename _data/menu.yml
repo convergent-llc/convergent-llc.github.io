@@ -6,18 +6,19 @@ main:
     url: /services/
     weight: 1
     child:
-      - name: "Web Development"
-        url: /services/web-development/
-      - name: "UX"
-        url: /services/user-experience/
-      - name: "Branding"
-        url: /services/branding/
-      - name: "Web Design"
-        url: /services/web-design/
-      - name: "SEO"
-        url: /services/seo/
-      - name: "Software Engineering"
-        url: /services/software-engineering/
+      - name: "Python Development"
+        url: /services/python-development/
+      - name: "Data Pipelines"
+        url: /services/data-pipelines/
+      - name: "Integrations"
+        url: /services/integrations/        
+      - name: "Web Scraping"
+        url: /services/web-scraping/
+      - name: "Data Cleaning and Prep"
+        url: /services/data-cleaning/
+      - name: "ETL / EL(T)"
+        url: /services/etl/
+
   - name: Projects
     url: /projects/
     weight: 2
@@ -36,9 +37,6 @@ main:
   - name: About
     url: /about/
     weight: 5
-  - name: Buy Now
-    url: https://www.zerostatic.io/theme/jekyll-advance/
-    weight: 6
 footer_primary:
   - name: Home
     url: /
@@ -62,6 +60,9 @@ footer_secondary:
   - name: Contact
     url: /contact/
     weight: 3
+  - name: Careers
+    url: /careers/
+    weight: 3
 footer_tertiary:
   - name: Privacy Policy
     url: /privacy-policy/
@@ -69,9 +70,6 @@ footer_tertiary:
   - name: Terms and Conditions
     url: /terms-and-conditions/
     weight: 2
-  - name: Buy Now
-    url: https://www.zerostatic.io/theme/jekyll-advance/
-    weight: 3
 bottom:
   - name: Privacy Policy
     url: /privacy-policy/
