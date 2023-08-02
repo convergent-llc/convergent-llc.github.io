@@ -19,6 +19,8 @@ Run `bundle install` to install gems.
 
 Then run `jekyll serve` or `bundle exec jekyll serve` to start the Jekyll server.
 
+Use `bundle exec jekyll serve --livereload` to enable live reload.
+
 To build the Jekyll site run `bundle exec jekyll build`
 
 ## Deploy
