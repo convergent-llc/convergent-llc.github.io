@@ -1,26 +1,26 @@
 ---
-title: "Web Design"
-description: "Design beautiful modern websites using the Jamstack."
-date: 2018-11-28T15:15:34+10:00
-weight: 4
+title: "Integrations"
+description: "Data and Application integrations to connect your business."
+date: 2023-08-02
+weight: 3
 header_transparent: true
 fa_icon: false
-icon: "assets/images/icons/icons8-design-100.png"
-thumbnail: "/assets/images/gen/services/service-4-thumbnail.webp"
-image: "/assets/images/gen/services/service-4.webp"
+icon: "assets/images/icons/icons8-color-palette-100.png"
+thumbnail: "/assets/images/gen/services/service-3-thumbnail.webp"
+image: "/assets/images/gen/services/service-3.webp"
 
 hero:
   enabled: true
-  heading: "Web Design"
-  sub_heading: "Design beautiful modern websites using the Jamstack."
+  heading: "Integrations"
+  sub_heading: "**Update**"
   text_color: "#ffffff"
   background_color: ""
   background_gradient: true
-  background_image_blend_mode: "overlay" # "overlay", "multiply", "screen"
-  background_image: "/assets/images/gen/services/service-4-large.webp"
-  fullscreen_mobile: true
+  background_image_blend_mode: "multiply" # "overlay", "multiply", "screen"
+  background_image: "/assets/images/gen/services/integrations.webp"
+  fullscreen_mobile: false
   fullscreen_desktop: false
-  height: 660px;
+  height: 660px
   buttons:
     enabled: false
     list:

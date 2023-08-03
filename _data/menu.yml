@@ -6,7 +6,7 @@ main:
     url: /services/
     weight: 1
     child:
-      - name: "Python Development"
+      - name: "Software Development"
         url: /services/python-development/
       - name: "Data Pipelines"
         url: /services/data-pipelines/
